@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/google-books-search/static/css/main.1ed74802.chunk.css",
+    "main.js": "/google-books-search/static/js/main.886f96c8.chunk.js",
+    "main.js.map": "/google-books-search/static/js/main.886f96c8.chunk.js.map",
+    "runtime~main.js": "/google-books-search/static/js/runtime~main.9ad78463.js",
+    "runtime~main.js.map": "/google-books-search/static/js/runtime~main.9ad78463.js.map",
+    "static/js/2.841d35d8.chunk.js": "/google-books-search/static/js/2.841d35d8.chunk.js",
+    "static/js/2.841d35d8.chunk.js.map": "/google-books-search/static/js/2.841d35d8.chunk.js.map",
+    "index.html": "/google-books-search/index.html",
+    "precache-manifest.1bf25a57cd3e28f1aac3e91d964ccb9b.js": "/google-books-search/precache-manifest.1bf25a57cd3e28f1aac3e91d964ccb9b.js",
+    "service-worker.js": "/google-books-search/service-worker.js",
+    "static/css/main.1ed74802.chunk.css.map": "/google-books-search/static/css/main.1ed74802.chunk.css.map",
+    "static/media/bookImg.svg": "/google-books-search/static/media/bookImg.016abe58.svg"
+  }
+}
